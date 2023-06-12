@@ -4,16 +4,6 @@
     gap: 1rem;
 }
 
-.comment > img{
-    box-sizing: initial;
-    width: calc(2rem + 12px);
-    height: calc(2rem + 12px);
-    object-fit: cover;
-    border-radius: 8px;
-    border: 2px solid var(--gray-800);
-}
-
-
 .commentBox{
     flex: 1;
 }
